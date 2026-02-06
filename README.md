@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-📍 Federal University of Lavras (UFLA)
-🎓 Computer Science student 
+-📍 Federal University of Lavras (UFLA)
+-🎓 Computer Science student 
