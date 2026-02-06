@@ -1,4 +1,4 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning
-- 🌱 I’m currently learning Python
+📍 Federal University of Lavras (UFLA)
+🎓 Computer Science student 
